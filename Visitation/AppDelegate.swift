@@ -13,7 +13,7 @@ import IQKeyboardManagerSwift
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 var window: UIWindow?
-
+//test lonka raju
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         print("111raju")
         IQKeyboardManager.shared.enable = true // enabling the keyboard.
